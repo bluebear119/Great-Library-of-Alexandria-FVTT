@@ -1,8 +1,8 @@
 {
     "name": "Great-Library-of-Alexandria-FVTT",
     "title": "亞歷山大圖書館",
-    "description": "一個收藏了各種DND5E官方與非中文化資料的圖書館",
-    "author": "Parado X",
+    "description": "一個用來收藏了各種DND5E官方與非中文化資料的圖書館模板",
+    "author": "bluebear119",
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.0",
     "packs": [
