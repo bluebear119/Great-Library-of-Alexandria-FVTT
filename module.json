@@ -1,0 +1,71 @@
+{
+    "name": "Great-Library-of-Alexandria-FVTT",
+    "title": "亞歷山大圖書館",
+    "description": "一個收藏了各種DND5E官方與非中文化資料的圖書館",
+    "author": "Parado X",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.0",
+    "packs": [
+        {
+          "name": "actors",
+          "label": "5E全NPC資料",
+          "path": "packs/actors.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "Actor"
+        },
+        {
+          "name": "monsters",
+          "label": "5E全怪物資料",
+          "path": "packs/monsters.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "Actor"
+        },
+        {
+          "name": "items",
+          "label": "5E全物品資料",
+          "path": "packs/items.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "Item"
+        },
+        {
+          "name": "scenes",
+          "label": "全場景資料",
+          "path": "packs/scenes.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "Scene"
+        },
+        {
+          "name": "JournalEntrys",
+          "label": "全日誌資料",
+          "path": "packs/journalentry.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "JournalEntry"
+        },
+        {
+          "name": "macros",
+          "label": "全Macros資料",
+          "path": "packs/macro.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "Macro"
+        },
+        {
+          "name": "rolltable",
+          "label": "全投骰表資料",
+          "path": "packs/rolltable.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "RollTable"
+        },
+        {
+          "name": "playlist",
+          "label": "全播放名單",
+          "path": "packs/playlist.db",
+            "module": "Great-Library-of-Alexandria",
+          "entity": "Playlist"
+        }
+      ],
+      
+    "download": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
+    "manifest": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/module.json",
+  
+    "url": "https://github.com/stschoelzel/My-Shared-Compendia"
+  }
