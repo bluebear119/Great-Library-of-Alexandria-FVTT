@@ -64,8 +64,8 @@
         }
       ],
       
-    "download": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
-    "manifest": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/module.json",
+    "download": "https://raw.githubusercontent.com/bluebear119/Great-Library-of-Alexandria-FVTT/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/bluebear119/Great-Library-of-Alexandria-FVTT/main/module.json",
   
     "url": "https://github.com/stschoelzel/My-Shared-Compendia"
   }
