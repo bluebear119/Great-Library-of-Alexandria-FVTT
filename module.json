@@ -5,6 +5,7 @@
     "author": "bluebear119",
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion":"9.220",
     "packs": [
         {
           "name": "actors",
