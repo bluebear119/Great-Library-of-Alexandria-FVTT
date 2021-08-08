@@ -64,8 +64,8 @@
         }
       ],
       
-    "download": "https://raw.githubusercontent.com/bluebear119/Great-Library-of-Alexandria-FVTT/main/module.json",
-    "manifest": "https://raw.githubusercontent.com/bluebear119/Great-Library-of-Alexandria-FVTT/main/module.json",
+    "download": "https://github.com/bluebear119/Great-Library-of-Alexandria-FVTT/releases/download/1.0.0/module.zip",
+    "manifest": "https://github.com/bluebear119/Great-Library-of-Alexandria-FVTT/releases/download/1.0.0/module.json",
   
     "url": "https://github.com/bluebear119/Great-Library-of-Alexandria-FVTT"
   }
