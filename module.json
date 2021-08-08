@@ -10,56 +10,56 @@
           "name": "actors",
           "label": "5E全NPC資料",
           "path": "packs/actors.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Actor"
         },
         {
           "name": "monsters",
           "label": "5E全怪物資料",
           "path": "packs/monsters.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Actor"
         },
         {
           "name": "items",
           "label": "5E全物品資料",
           "path": "packs/items.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Item"
         },
         {
           "name": "scenes",
           "label": "全場景資料",
           "path": "packs/scenes.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Scene"
         },
         {
           "name": "JournalEntrys",
           "label": "全日誌資料",
           "path": "packs/journalentry.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "JournalEntry"
         },
         {
           "name": "macros",
           "label": "全Macros資料",
           "path": "packs/macro.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Macro"
         },
         {
           "name": "rolltable",
           "label": "全投骰表資料",
           "path": "packs/rolltable.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "RollTable"
         },
         {
           "name": "playlist",
           "label": "全播放名單",
           "path": "packs/playlist.db",
-            "module": "Great-Library-of-Alexandria",
+            "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Playlist"
         }
       ],
