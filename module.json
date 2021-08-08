@@ -1,63 +1,63 @@
 {
     "name": "Great-Library-of-Alexandria-FVTT",
-    "title": "亞歷山大圖書館",
-    "description": "一個用來收藏了各種DND5E官方與非官方中文化資料的圖書館模板",
+    "title": "Great Library of Alexandria",
+    "description": "一個用來收藏各種DND5E官方與非官方中文化資料的圖書館模板",
     "author": "bluebear119",
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.0",
     "packs": [
         {
           "name": "actors",
-          "label": "5E全NPC資料",
+          "label": "5E All NPC",
           "path": "packs/actors.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Actor"
         },
         {
           "name": "monsters",
-          "label": "5E全怪物資料",
+          "label": "5E All Monster",
           "path": "packs/monsters.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Actor"
         },
         {
           "name": "items",
-          "label": "5E全物品資料",
+          "label": "5E All Items",
           "path": "packs/items.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Item"
         },
         {
           "name": "scenes",
-          "label": "全場景資料",
+          "label": "5E All Scenes",
           "path": "packs/scenes.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Scene"
         },
         {
           "name": "JournalEntrys",
-          "label": "全日誌資料",
+          "label": "5E All Journal",
           "path": "packs/journalentry.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "JournalEntry"
         },
         {
           "name": "macros",
-          "label": "全Macros資料",
+          "label": "5E All Macros",
           "path": "packs/macro.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Macro"
         },
         {
           "name": "rolltable",
-          "label": "全投骰表資料",
+          "label": "5E All Roll table",
           "path": "packs/rolltable.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "RollTable"
         },
         {
           "name": "playlist",
-          "label": "全播放名單",
+          "label": "5E All Playlist",
           "path": "packs/playlist.db",
             "module": "Great-Library-of-Alexandria-FVTT",
           "entity": "Playlist"
