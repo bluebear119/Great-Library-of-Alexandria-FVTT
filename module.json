@@ -16,6 +16,13 @@
         },
         {
           "name": "monsters",
+          "label": "怪物圖鑑-繁體-祭司專用",
+          "path": "packs/monsters.db",
+            "module": "Great-Library-of-Alexandria-FVTT",
+          "entity": "Actor"
+        },
+        {
+          "name": "monsters",
           "label": "5E All Monster",
           "path": "packs/monsters.db",
             "module": "Great-Library-of-Alexandria-FVTT",
